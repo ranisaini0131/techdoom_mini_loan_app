@@ -77,3 +77,7 @@ npm i express nodemon bcrypt cookie-parser cors dotenv jsonwebtoken
 ### Script to install the app in one go
 
 npm i heroicons/react @reduxjs/toolkit axios lucide-react react react-dom react-redux react-router-dom react-toastify redux
+
+### POSTMAN COLLECTION
+
+https://documenter.getpostman.com/view/24218852/2sA3Bheudz
